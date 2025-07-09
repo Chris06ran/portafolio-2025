@@ -12,7 +12,7 @@ function App() {
       <Navbar /> {/*Agregamos <Navbar /> al inicio del return().*/}
       <header className="text-center mt-10">
         <h1 className="text-4xl text-white font-bold">¡Hola! Soy Christian Franco</h1>
-        <p className="text-xl text-white">Desarrollador Web Junior</p>
+        <p className="text-xl text-white">Desarrollador Web </p>
         <br />
       </header>
 
@@ -20,9 +20,9 @@ function App() {
 
       <TechStack /> {/* Mostramos la sección de tecnologías */}
 
-      <Projects />
+      <Projects />  {/* Mostramos la sección de proyectos */}
 
-      <Contact />
+      <Contact />   {/* Mostramos la sección de contactar */}
     </div>
   );
 }

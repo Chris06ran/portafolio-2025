@@ -29,7 +29,7 @@ function SobreMi() {
         <div className="md:w-2/3 text-center md:text-left">
           <h2 className="text-4xl font-bold mb-4">Sobre Mí</h2>
           <p className="text-lg text-gray-300 leading-relaxed">
-            ¡Hola! Soy un desarrollador junior apasionado por la tecnología y el desarrollo web.
+            ¡Hola! Soy un desarrollador web apasionado por la tecnología.
             Me especializo en <strong className="text-blue-400">React, JavaScript, y Tailwind CSS</strong>.
             Siempre estoy aprendiendo nuevas tecnologías y buscando mejorar mis habilidades
             para construir aplicaciones modernas y eficientes.
@@ -66,7 +66,7 @@ function SobreMi() {
 
             {/* Botón LinkedIn */}
             <a
-                href="https://www.linkedin.com/in/tu-nombre-de-usuario" // <-- reemplaza esta URL con tu perfil real
+                href="https://www.linkedin.com/in/c-franco-017842135" // <-- enlace de mi perfil de LinkedIn
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-48 h-12 flex items-center justify-center gap-2 bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition duration-300"
@@ -74,6 +74,7 @@ function SobreMi() {
                 <FaLinkedin className="text-2xl" />
                 LinkedIn
             </a>
+            
             </div>
 
         </div>

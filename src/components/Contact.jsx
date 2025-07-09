@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import axios from "axios"; // Necesitas instalar axios para hacer peticiones HTTP
+import axios from "axios";
 
 function Contact() {
   // Estados para manejar el formulario

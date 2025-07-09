@@ -29,7 +29,7 @@ const projects = [
     description: "Mi propio portafolio web hecho con React y Tailwind.",
     image: "https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2023/04/portafolio-programador.jpg",
     link: "#inicio",
-    repo: "#",
+    repo: "https://github.com/Chris06ran/portafolio-2025",
   },
 ];
 
