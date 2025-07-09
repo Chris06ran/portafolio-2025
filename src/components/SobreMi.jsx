@@ -57,7 +57,7 @@ function SobreMi() {
 
             {/* Botón para descargar CV */}
             <a
-                href="/CV-2025.pdf" //→ Enlace al archivo PDF en la carpeta public.
+                href="/CV-Christian-Franco-2025.pdf" //→ Enlace al archivo PDF en la carpeta public.
                 download="CV-Christian-Franco-2025.pdf" // → Indica que el archivo se descargará con el nombre CV Christian Franco-2025.pdf
                 className="w-48 h-12 flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg"
             >
